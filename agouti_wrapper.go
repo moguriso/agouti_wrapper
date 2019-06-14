@@ -1,4 +1,4 @@
-package web
+package agouti_wrapper
 
 import (
 	"github.com/sclevine/agouti"
